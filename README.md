@@ -8,6 +8,7 @@ The column names are predefined parameters as required in the task and the value
 
 
 
+
 Specific requirements:
 
 Height is between values of 1.58 – 2.04
@@ -18,7 +19,7 @@ Academic Level values number are:
 2 – MA
 3- Phd.
 
-experience values are:
+Experience values are:
 0 – No exp.
 1 – 1-2 Y
 2 – 3-5 Y
