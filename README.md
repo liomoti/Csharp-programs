@@ -3,7 +3,10 @@ This program is used for homework to the course 'Introduction to learning system
 The course is taught in the third year of the degree of software engineering at the Kinneret Academic College
 
 This program is generating a csv file with 10,000 lines with random parameters.
+
 The column names are predefined parameters as required in the task and the values are random.
+
+
 
 Specific requirements:
 
