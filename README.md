@@ -6,6 +6,7 @@ This program is create a csv file with 10,000 lines with random parameters.
 
 The column names are predefined parameters as required in the task.
 
+This database will be used by us in the continuation of the course for modeling and analysis.
 
 
 
